@@ -25,4 +25,8 @@ jobs:
     - name: Format code
       run: |
         make format
+<<<<<<< HEAD
     
+=======
+    
+>>>>>>> 15855bb (changing build)
